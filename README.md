@@ -1,4 +1,4 @@
 # Backpropogation-Algorithm
 Backprop algorithm with loops and with matrix format
 
-![pic](pic.png)
+![pic](pic.jpg)
